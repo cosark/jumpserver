@@ -43,6 +43,10 @@ Open `https://<jumpserver-host>/` in your browser, replacing `<jumpserver-host>`
 - Username: `admin`
 - Password: `ChangeMe`
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/JumpServer/)
+
 ## Screenshots
 
 <p align="center">
